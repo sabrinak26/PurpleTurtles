@@ -1,3 +1,3 @@
-| Name             	| Age 	| Year of Program 	| Program                              	| School 	| Resume/LinkedIn 	|
-|------------------	|-----	|-----------------	|--------------------------------------	|--------	|-----------------	|
-| Hailey Mitsubata 	| 20  	| 3               	| Kinesiology                          	| UWO    	|                 	|
+| Name | Year | Program | School | Hobbies |
+|------|------|---------|----------|---------|
+|Hailey Mitsubata| 3| Kinesiology| UWO | Snowboarding 🏂 Hockey 🏒|
